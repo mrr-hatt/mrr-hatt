@@ -1,209 +1,353 @@
-# Hey, I'm MrHat 👋
+<div align="center">
 
-### Backend Developer · Founder · Open-Source Builder
+# MRHAT
 
-I build **backend systems, APIs, payment infrastructure, blockchain networks, and distributed systems**.
+### Backend Engineer · Founder · Infrastructure Builder
 
-I'm the founder of **Cygnusium**, where I'm working on developer-focused infrastructure, financial technology, and open-source software.
+**I build the systems behind the systems.**
+
+[![GitHub](https://img.shields.io/badge/GitHub-mrr--hatt-181717?style=for-the-badge\&logo=github)](https://github.com/mrr-hatt)
+[![Discord](https://img.shields.io/badge/Discord-mrr__hatt-5865F2?style=for-the-badge\&logo=discord\&logoColor=white)](https://discord.com/users/mrr_hatt)
+[![Cygnusium](https://img.shields.io/badge/Cygnusium-000000?style=for-the-badge)](http://cygnusium.cygnuspay.org)
+
+</div>
+
+---
+
+## `> whoami`
+
+I'm **MrHat**, a backend developer and founder building software around **APIs, payments, blockchain infrastructure, distributed systems, and developer tooling**.
+
+I spend most of my time somewhere between application code and infrastructure — designing APIs, building services, debugging Linux servers, experimenting with distributed architectures, and turning ideas into systems that actually run.
+
+I'm the founder of **Cygnusium**, where I'm building software and infrastructure for developers and modern financial systems.
 
 ```text
-Building things that should probably have been documented first.
+┌─────────────────────────────────────────────────────────────┐
+│                         MRHAT                                │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│  Role        Backend Developer · Founder                    │
+│  Company     Cygnusium                                      │
+│  Focus       APIs · Payments · Blockchain · Infrastructure  │
+│  Location    Sichuan / Chongqing                            │
+│  OS          Linux                                          │
+│  Currently   Building things                                │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## 🚀 What I'm Building
+## `01` — What I Build
 
-### Cygnusium
+I like working on software that lives **underneath the interface**.
 
-A software and infrastructure company focused on building practical developer and financial infrastructure.
+### ⚡ API Infrastructure
 
-I'm currently working across:
+Designing and building backend services that are:
 
-* ⚡ High-performance API engines
-* ⛓️ Blockchain infrastructure
-* 💳 Payment systems
-* 🌐 Distributed systems
-* 🔐 Security & verification infrastructure
-* 🐳 Containerized deployments
-* 🛠️ Open-source developer tooling
+* Fast
+* Reliable
+* Observable
+* Easy to integrate
+* Designed to scale
 
-I'm especially interested in projects where **backend engineering meets infrastructure and decentralized systems**.
+From REST APIs to GraphQL services and internal service architectures.
+
+### ⛓️ Blockchain Infrastructure
+
+Working with the parts of blockchain systems that most users never see:
+
+* Nodes
+* RPC infrastructure
+* Transaction processing
+* Wallet infrastructure
+* Payment rails
+* Chain tooling
+* Blockchain APIs
+
+### 💳 Financial Infrastructure
+
+Building systems around digital payments and financial APIs, with a particular interest in:
+
+* Payment processing
+* Transaction systems
+* Wallet architecture
+* Merchant infrastructure
+* Developer APIs
+
+### 🐧 Infrastructure & Systems
+
+I enjoy getting close to the machine:
+
+```text
+Application
+    ↓
+API
+    ↓
+Services
+    ↓
+Database / Cache
+    ↓
+Containers
+    ↓
+Linux
+    ↓
+Network
+    ↓
+Hardware
+```
 
 ---
 
-## 🧠 About Me
+# `02` — Cygnusium
 
-* 🌍 Based in **Sichuan / Chongqing**
-* 💻 Backend developer & founder
-* 🏗️ Building **Cygnusium**
-* 🔭 Currently working on APIs, payment infrastructure & blockchain systems
-* 🤝 Open to collaborating on **API engines, blockchain infrastructure and open-source projects**
-* 🐧 Linux enthusiast
-* ⚙️ I like building systems from the infrastructure up
+## Building infrastructure for developers.
+
+**Cygnusium** is the company I'm building around software, infrastructure, financial technology, and open-source systems.
+
+The long-term goal isn't simply to ship another application.
+
+It's to build **infrastructure that other developers can build on top of.**
+
+```text
+                         CYGNUSIUM
+                              │
+             ┌────────────────┼────────────────┐
+             │                │                │
+           APIs          Payments         Blockchain
+             │                │                │
+             └────────────────┼────────────────┘
+                              │
+                        Infrastructure
+                              │
+                     Developer Ecosystem
+```
+
+I'm particularly interested in building products that expose complicated infrastructure through **simple, developer-friendly APIs**.
 
 ---
 
-## 🛠️ Tech Stack
+# `03` — Tech Stack
 
 ### Languages
 
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42" height="42" alt="Python">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" width="42" height="42" alt="Go">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="42" height="42" alt="JavaScript">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="42" height="42" alt="TypeScript">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="42" height="42" alt="PHP">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="42" height="42" alt="Bash">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" height="42" alt="Python" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="42" height="42" alt="Go" title="Go"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" height="42" alt="JavaScript" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="42" height="42" alt="TypeScript" title="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="42" height="42" alt="PHP" title="PHP"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="42" height="42" alt="Bash" title="Bash"/>
 </p>
 
-### Backend & APIs
+### Backend
 
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="42" height="42" alt="FastAPI">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="42" height="42" alt="Flask">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="42" height="42" alt="Node.js">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" width="42" height="42" alt="GraphQL">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="42" height="42" alt="Laravel">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="42" height="42" alt="FastAPI" title="FastAPI"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="42" height="42" alt="Flask" title="Flask"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="42" height="42" alt="Node.js" title="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="42" height="42" alt="GraphQL" title="GraphQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="42" height="42" alt="Laravel" title="Laravel"/>
 </p>
 
 ### Infrastructure
 
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="42" height="42" alt="Linux">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="42" height="42" alt="Docker">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" width="42" height="42" alt="Kubernetes">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="42" height="42" alt="Git">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="42" height="42" alt="Linux" title="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="42" height="42" alt="Docker" title="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" width="42" height="42" alt="Kubernetes" title="Kubernetes"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" height="42" alt="Git" title="Git"/>
 </p>
 
-### Databases & Data
+### Data
 
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="42" height="42" alt="MySQL">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="42" height="42" alt="MySQL" title="MySQL"/>
 </p>
 
-### AI / ML / Blockchain
+### AI / ML / Web3
 
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="42" height="42" alt="PyTorch">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/polygon/polygon-original.svg" width="42" height="42" alt="Polygon">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="42" height="42" alt="PyTorch" title="PyTorch"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42" height="42" alt="React" title="React"/>
 </p>
 
 ---
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrr-hatt&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" height="180" alt="MrHat's GitHub statistics">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrr-hatt&layout=compact&langs_count=8&hide_border=true" height="180" alt="MrHat's most used languages">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrr-hatt&hide_border=true" alt="MrHat's GitHub streak">
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrr-hatt&hide_border=true&area=true" alt="MrHat's contribution graph">
-</p>
-
----
-
-## 🧩 What I Like Working On
+# `04` — Engineering Interests
 
 ```text
-┌──────────────────────────────────────────────────────────────┐
-│                         CURRENT FOCUS                         │
-├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│  API Architecture        ████████████████████░░  90%         │
-│  Blockchain              ██████████████████░░░░  85%         │
-│  Backend Systems         ████████████████████░░  90%         │
-│  Infrastructure           █████████████████░░░░░  80%         │
-│  Distributed Systems     ████████████████░░░░░░  75%         │
-│  DevOps                  ███████████████░░░░░░░  70%         │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
+Backend Engineering       ████████████████████
+API Architecture          ████████████████████
+Blockchain Infrastructure ███████████████████░
+Distributed Systems       ██████████████████░░
+Payment Infrastructure    ██████████████████░░
+Linux / Systems            ████████████████████
+DevOps / Infrastructure   █████████████████░░░
+Machine Learning           ███████████████░░░░░
+Frontend                   ████████████░░░░░░░░
 ```
 
-I enjoy working on systems where reliability, scalability and performance actually matter.
+### Things I enjoy
 
-Some areas I'm particularly interested in:
+```yaml
+architecture:
+  - API design
+  - distributed systems
+  - service architecture
+  - scalability
+  - fault tolerance
 
-**Backend**
+infrastructure:
+  - Linux
+  - containers
+  - networking
+  - monitoring
+  - deployment
+  - automation
 
-* REST APIs
-* GraphQL
-* Microservices
-* Authentication & authorization
-* High-throughput services
-* API gateways
+backend:
+  - REST
+  - GraphQL
+  - authentication
+  - databases
+  - background workers
+  - transaction processing
 
-**Blockchain**
-
-* Node infrastructure
-* RPC services
-* Wallet infrastructure
-* Transaction processing
-* Payment rails
-* Blockchain tooling
-
-**Infrastructure**
-
-* Linux servers
-* Docker
-* Kubernetes
-* Monitoring
-* Networking
-* CI/CD
-* Distributed deployments
+blockchain:
+  - nodes
+  - RPC
+  - wallets
+  - payments
+  - chain infrastructure
+  - developer tooling
+```
 
 ---
 
-## 🤝 Collaboration
+# `05` — Projects
 
-I'm always interested in meeting developers building ambitious things.
+## 🦢 Cygnusium
 
-If you're working on:
+**Infrastructure, software and financial technology.**
 
-* API infrastructure
+Building developer-focused systems around APIs, payments, blockchain infrastructure, and open-source software.
+
+---
+
+## 💳 Cygnus Pay
+
+**Crypto payment infrastructure built for developers.**
+
+A payment platform focused on making cryptocurrency payments easier to integrate through APIs and developer tooling.
+
+---
+
+## ⛓️ Cygnus Chain
+
+A blockchain infrastructure project focused on experimenting with chain architecture, nodes, transactions, and developer-facing blockchain systems.
+
+---
+
+## 🔐 Cygnus Verify
+
+Identity and verification infrastructure designed around developer-friendly APIs and automated verification workflows.
+
+---
+
+> More projects are being built.
+> Some are public. Some are still behind the curtain.
+
+---
+
+# `06` — How I Think About Software
+
+I care less about writing the most code.
+
+I care about building the **right system**.
+
+```text
+Simple
+  ↓
+Understandable
+  ↓
+Reliable
+  ↓
+Observable
+  ↓
+Scalable
+```
+
+My favorite architecture is the one where another developer can open the repository six months later and immediately understand **why it exists, how it works, and where to change it.**
+
+---
+
+# `07` — Open Source
+
+I believe software becomes more useful when people can inspect it, learn from it, modify it, and build on top of it.
+
+I'm interested in collaborating on:
+
+* API engines
 * Blockchain infrastructure
-* Payment systems
-* Developer tooling
-* Open-source infrastructure
+* Developer tools
+* Payment infrastructure
 * Distributed systems
+* Linux tooling
+* Open-source backend projects
 
-**Let's build something.**
-
----
-
-## 🌐 Find Me
-
-<p align="left">
-  <a href="https://github.com/mrr-hatt">
-    <img src="https://img.shields.io/badge/GitHub-mrr--hatt-181717?style=for-the-badge&logo=github" alt="GitHub">
-  </a>
-  <a href="https://discord.com/users/mrr_hatt">
-    <img src="https://img.shields.io/badge/Discord-mrr__hatt-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-  </a>
-</p>
-
-📧 **Email:** [mrhat@cygnuspay.org](mailto:mrhat@cygnuspay.org)
-
-🏢 **Company:** Cygnusium LLC
+If you're building something interesting, **I'm probably interested in hearing about it.**
 
 ---
 
-## 💭 Philosophy
+# `08` — Let's Build
 
-> Build it. Break it. Understand why it broke.
-> Then build it better.
+Looking for developers who enjoy solving difficult problems rather than simply adding another dependency.
+
+### I'm open to collaborating on:
+
+**API Engines**
+Backend frameworks, API gateways, service architectures and developer platforms.
+
+**Blockchain Infrastructure**
+Nodes, RPC systems, transaction infrastructure and blockchain tooling.
+
+**Financial Systems**
+Payment processing, wallets, transaction systems and developer APIs.
+
+**Open Source**
+Projects where the code is meant to be studied, improved and shared.
 
 ---
+
+## Contact
 
 <p align="center">
-  <sub>Built with caffeine, Linux and questionable amounts of debugging.</sub>
+
+<a href="mailto:mrhat@cygnuspay.org">
+  <img src="https://img.shields.io/badge/Email-mrhat%40cygnuspay.org-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/mrr-hatt">
+  <img src="https://img.shields.io/badge/GitHub-mrr--hatt-000000?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://discord.com/users/mrr_hatt">
+  <img src="https://img.shields.io/badge/Discord-mrr__hatt-000000?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+
 </p>
+
+---
+
+<div align="center">
+
+### `BUILD → BREAK → DEBUG → LEARN → REBUILD`
+
+**Backend. Infrastructure. Blockchain.**
+
+<sub>© MrHat · Cygnusium</sub>
+
+</div>
